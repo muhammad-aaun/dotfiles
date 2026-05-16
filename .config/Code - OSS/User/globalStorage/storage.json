@@ -1,0 +1,106 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "28822aa24a4b245f8467dc14018789faa7fe5176a47c08025c0b94da7aed3e26",
+    "telemetry.devDeviceId": "d7498c4d-7ff0-4cd7-a08c-e601b9781dd8",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/m-aaun/.themes/Gruvbox-Dark-Medium-Green"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/aaun/.config/hypr": "__default__profile__",
+            "file:///home/m-aaun/.config/hypr": "__default__profile__",
+            "file:///home/m-aaun/.config/waybar": "__default__profile__",
+            "file:///home/m-aaun/.config/rofi": "__default__profile__",
+            "file:///home/m-aaun/.config": "__default__profile__",
+            "file:///home/m-aaun/.themes/Gruvbox-BL-MB-Dark-Medium": "__default__profile__",
+            "file:///home/m-aaun/.themes/Gruvbox-Dark-Medium-Green": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#282828",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#ebdbb2",
+            "background": "#282828",
+            "editorBackground": "#282828",
+            "titleBarBackground": "#282828",
+            "activityBarBackground": "#282828",
+            "activityBarBorder": "#3c3836",
+            "sideBarBackground": "#282828",
+            "sideBarBorder": "#3c3836",
+            "statusBarBackground": "#282828",
+            "statusBarBorder": "#3c3836",
+            "statusBarNoFolderBackground": "#282828"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 234,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 234,
+            "auxiliaryBarWidth": 234,
+            "workspaces": {
+                "c62dcf6202899a0389daa9a6bade9c1b": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "9e9c7439eecc608a0c3071e0df10ed26": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "68bb6606c325fff7efd219ca83fb495f": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                },
+                "8b6b02a1865b59fa42102f6c0e9885a9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a4103c14f9466ce6def2e2f640d1f204": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "9788df8623a943968073a4582a5c700e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "97dbd7e7434f3611f17482aa70e51a24": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/m-aaun/.themes/Gruvbox-Dark-Medium-Green",
+            "backupPath": "/home/m-aaun/.config/Code - OSS/Backups/d42913b8932d8e7062fa8def14851c3b",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 945,
+                "height": 1000
+            }
+        },
+        "openedWindows": []
+    }
+}

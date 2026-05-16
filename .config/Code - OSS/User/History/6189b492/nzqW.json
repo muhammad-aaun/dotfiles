@@ -1,0 +1,7 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "editor.fontFamily": "'JetBrainsMono Nerd Font','Droid Sans Mono', monospace",
+    "editor.fontSize": 16
+}

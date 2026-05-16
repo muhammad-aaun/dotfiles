@@ -1,0 +1,26 @@
+{
+    "layer": "bottom",
+    // "modules-left": ["sway/workspaces", "sway/mode"],
+    "modules-center": ["clock", "hyprland/workspaces", "pulseaudio", "network"],
+    // "modules-right": ["battery", "clock"],
+
+    "clock": {
+    "interval": 60,
+    "format": "{:%I:%M %p}"
+},
+"hyprland/workspaces": {
+	"format": "{name}",
+	"format-icons": {
+		"1": "1",
+		"2": "2",
+		"3": "3",
+		"4": "4",
+		"5": "5",
+		"active": "",
+		"default": ""
+	},
+       "persistent-workspaces": {
+             "*": 5 // Five workspace fixed
+       }
+}
+}

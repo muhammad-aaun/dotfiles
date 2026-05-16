@@ -1,0 +1,6 @@
+@import "colors.css";
+
+* {
+    all: unset;
+    font-family: "rubik", "JetBrainMono Nerd Font Propo", "Noto Sans CJK JP", "Noto Sans CJk KR";
+}

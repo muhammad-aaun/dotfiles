@@ -1,0 +1,3 @@
+extension-manager-debug
+qtengine-git
+yay-debug

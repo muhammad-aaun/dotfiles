@@ -1,0 +1,16 @@
+@import "colors.css";
+
+* {
+    all: unset;
+    font-family: "Rubik", "JetBrainsMono Nerd Font Propo", "Noto Sans CJK JP", "Noto Sans CJk KR";
+}
+
+.modules-center {
+    background-color: @bg1;
+    padding: 2px 12px;
+    border-radius: 99px;
+}
+
+#clock {
+    font-weight: 500;
+}

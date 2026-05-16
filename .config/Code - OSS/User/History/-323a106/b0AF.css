@@ -1,0 +1,6 @@
+@import "colors.css";
+
+* {
+    all: unset;
+    font-family: "Google Sans Flex", "JetBrainMono Nerd Font Propo", "Noto Sans CJK JP", "Noto Sans CJk KR";
+}

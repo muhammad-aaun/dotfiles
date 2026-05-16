@@ -1,0 +1,12 @@
+{
+    "layer": "bottom",
+    // "modules-left": ["sway/workspaces", "sway/mode"],
+    "modules-center": ["clock", "hyprland/workspaces", "pulseaudio", "network"],
+    // "modules-right": ["battery", "clock"],
+
+    "clock": {
+    "interval": 60,
+    "format": "{:%H:%M}",
+    "max-length": 25
+}
+}
