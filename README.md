@@ -1,7 +1,9 @@
-# Dotfiles
+# Dotfiles ( Gruvbox Dark )
 
 A minimal, reproducible Hyprland-based Linux setup for when I inevitably break my system and need to pretend I didn’t.
-
+<p align="center">
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fecc4caa-552a-4cf2-a2e4-d5c2f190761b" />
+</p>
 ## What this includes
 
 * Hyprland config
